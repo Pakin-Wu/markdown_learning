@@ -1,0 +1,11 @@
+{
+    "markdown.extension.print.theme": "light",
+    "markdown-preview-github-styles.colorTheme": "light",
+    "[markdown]": {
+        "editor.quickSuggestions": {
+            "comments": "on",
+            "strings": "on",
+            "other": "on"
+        }
+    },
+}
